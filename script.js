@@ -1,4 +1,5 @@
-// （API_KEY には、"取得したAPIキー" を記述）
+//（API_KEY には、"取得したAPIキー" を記述）
+//「OpenWeatherMap」を使用します。
 const API_KEY = "0000000000000000000"; //APIを意図的に非表示にしています。
 
 $(function(){
